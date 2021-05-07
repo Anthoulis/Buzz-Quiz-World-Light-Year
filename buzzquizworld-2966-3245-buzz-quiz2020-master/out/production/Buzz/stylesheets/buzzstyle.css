@@ -1,0 +1,14 @@
+.border_menu{
+    -fx-background-image: url('../images/Buzz_toy_story_3.png');
+    -fx-background-repeat: no-repeat;
+    -fx-background-attachment: fixed;
+    -fx-background-position: 300px 50px;
+    -fx-background-color: white;
+}
+.border_in_game{
+    -fx-background-image: url('../images/BuzzThugPose.png');
+    -fx-background-repeat: no-repeat;
+    -fx-background-attachment: fixed;
+    -fx-background-position: 550px 200px;
+    -fx-background-color: white;
+}
